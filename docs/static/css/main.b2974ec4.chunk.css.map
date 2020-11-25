@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,EACI,sCACJ,CAEA,KACI,YACJ","file":"main.b2974ec4.chunk.css","sourcesContent":["* {\n    font-family:Helvetica, Arial, sans-serif;\n}\n\nbody{\n    padding: 60px;\n}\n"]}
